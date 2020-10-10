@@ -1,9 +1,6 @@
 {
-	"credit": "Made by AdrfitusDrew",
 	"parent": "item/custom/crystal",
-	"texture_size": [128, 128],
 	"textures": {
-		"2": "item/custom/crystal_sleep",
-		"particle": "item/custom/crystal"
+		"2": "item/custom/crystal_sleep"
 	}
 }

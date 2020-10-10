@@ -1,4 +1,9 @@
 {
+	"credit": "Made by AdrfitusDrew",
+	"texture_size": [128, 128],
+	"textures": {
+		"particle": "item/custom/crystal"
+	},
 	"elements": [
 		{
 			"from": [-10.93986, 12.02256, 6],
